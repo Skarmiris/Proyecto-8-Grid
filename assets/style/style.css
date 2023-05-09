@@ -77,7 +77,7 @@ li {
 /* cards de main */
 .cards {
     display: flex;
-    margin: 5px auto;
+    margin: 10px auto;
     flex-direction: column;
     justify-content: space-between;
     border-radius: 10px;
